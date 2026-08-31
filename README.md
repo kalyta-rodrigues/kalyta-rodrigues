@@ -42,7 +42,8 @@ Trabalho com desenvolvimento web e mobile, unindo lógica de programação a sol
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kalyta-rodrigues&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies" />
+<img src="https://img.shields.io/github/followers/kalyta-rodrigues?style=for-the-badge&color=B8860B&labelColor=1A2B3C&logo=github&logoColor=F5F5DC&label=followers" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=kalyta-rodrigues&style=for-the-badge&color=B8860B&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
