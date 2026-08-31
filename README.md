@@ -31,24 +31,13 @@ Trabalho com desenvolvimento web e mobile, unindo lógica de programação a sol
 
 ## 🛠️ Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-B8860B?style=for-the-badge&logo=javascript&logoColor=F5F5DC&labelColor=1A2B3C)
-![TypeScript](https://img.shields.io/badge/TypeScript-B8860B?style=for-the-badge&logo=typescript&logoColor=F5F5DC&labelColor=1A2B3C)
-![HTML5](https://img.shields.io/badge/HTML5-B8860B?style=for-the-badge&logo=html5&logoColor=F5F5DC&labelColor=1A2B3C)
-![Dart](https://img.shields.io/badge/Dart-B8860B?style=for-the-badge&logo=dart&logoColor=F5F5DC&labelColor=1A2B3C)
-![SAP Business One](https://img.shields.io/badge/SAP%20Business%20One-B8860B?style=for-the-badge&logo=sap&logoColor=F5F5DC&labelColor=1A2B3C)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-B8860B?style=for-the-badge&logo=microsoftsqlserver&logoColor=F5F5DC&labelColor=1A2B3C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B8860B?style=for-the-badge&logo=postgresql&logoColor=F5F5DC&labelColor=1A2B3C)
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-<img src="https://img.shields.io/github/followers/kalyta-rodrigues?style=for-the-badge&color=B8860B&labelColor=1A2B3C&logo=github&logoColor=F5F5DC&label=followers" alt="Followers" />
-<img src="https://komarev.com/ghpvc/?username=kalyta-rodrigues&style=for-the-badge&color=B8860B&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyta-rodrigues&hide_border=true&background=1A2B3C&stroke=D4AF37&ring=B8860B&fire=D4AF37&currStreakLabel=D4AF37" alt="Streak" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SAP Business One](https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📫 Contato
 
