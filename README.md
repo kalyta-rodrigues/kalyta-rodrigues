@@ -1,6 +1,8 @@
-# Olá, eu sou a Kalyta 👋
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:16213E,100:3FBFC4&height=200&section=header&text=Kalyta%20Rodrigues&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-💻 Desenvolvedora FullStack, baseada no Espírito Santo, Brasil.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1F7A8C&center=true&vCenter=true&width=600&lines=Desenvolvedora+FullStack;Web+%26+Mobile;ERP+%2B+Bancos+de+Dados" alt="Typing SVG" />
+</p>
 
 Trabalho com desenvolvimento web e mobile, unindo lógica de programação a soluções práticas do dia a dia — incluindo integrações com sistemas de gestão (ERP) e bancos de dados.
 
@@ -29,21 +31,29 @@ Trabalho com desenvolvimento web e mobile, unindo lógica de programação a sol
 
 ## 🛠️ Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SAP Business One](https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/static/v1?label=JavaScript&logo=javascript&logoColor=F7DF1E&color=1F7A8C&labelColor=16213E&style=for-the-badge)
+![TypeScript](https://img.shields.io/static/v1?label=TypeScript&logo=typescript&logoColor=3178C6&color=1F7A8C&labelColor=16213E&style=for-the-badge)
+![HTML5](https://img.shields.io/static/v1?label=HTML5&logo=html5&logoColor=E34F26&color=1F7A8C&labelColor=16213E&style=for-the-badge)
+![Dart](https://img.shields.io/static/v1?label=Dart&logo=dart&logoColor=0175C2&color=1F7A8C&labelColor=16213E&style=for-the-badge)
+![SAP Business One](https://img.shields.io/static/v1?label=SAP%20Business%20One&logo=sap&logoColor=ffffff&color=1F7A8C&labelColor=16213E&style=for-the-badge)
+![SQL Server](https://img.shields.io/static/v1?label=SQL%20Server&logo=microsoftsqlserver&logoColor=ffffff&color=1F7A8C&labelColor=16213E&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/static/v1?label=PostgreSQL&logo=postgresql&logoColor=ffffff&color=1F7A8C&labelColor=16213E&style=for-the-badge)
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=kalyta-rodrigues&show_icons=true&theme=default)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyta-rodrigues&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyta-rodrigues&show_icons=true&hide_border=true&title_color=3FBFC4&icon_color=3FBFC4&text_color=ffffff&bg_color=16213E" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyta-rodrigues&layout=compact&hide_border=true&title_color=3FBFC4&text_color=ffffff&bg_color=16213E" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyta-rodrigues&hide_border=true&background=16213E&stroke=3FBFC4&ring=1F7A8C&fire=3FBFC4&currStreakLabel=3FBFC4" alt="Streak" />
+</p>
 
 ## 📫 Contato
 
 - 📧 kalytarodrigues.tech@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/kalyta-almeida-146659163)
 - 🌐 [Portfólio](https://kalyta-rodrigues.github.io/portifolio/)
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:16213E,100:3FBFC4&height=100&section=footer)
