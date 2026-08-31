@@ -19,15 +19,15 @@ Trabalho com desenvolvimento web e mobile, unindo lógica de programação a sol
 
 ## 🔒 Outros projetos privados
 
-| Projeto | Descrição |
-|---|---|
-| notificacao-licitacao-TI | Sistema de notificação automática de licitações |
-| OrionStudy | Projeto de estudo/aprendizado pessoal |
-| projeto-phishing-estudo | Estudo prático sobre phishing e segurança |
-| controle_projetos | Sistema de controle de projetos |
-| gestao_projetos | Sistema de gestão de projetos |
-| orionstock | Sistema de controle de estoque |
-| site-gabi-ink1 | Site de controle de agendamentos, estoque de materiais |
+| Projeto | Descrição | Stack |
+|---|---|---|
+| notificacao-licitacao-TI | Sistema de notificação automática de licitações | TypeScript |
+| OrionStudy | Projeto de estudo/aprendizado pessoal | HTML |
+| projeto-phishing-estudo | Estudo prático sobre phishing e segurança | HTML |
+| controle_projetos | Sistema de controle de projetos | TypeScript |
+| gestao_projetos | Sistema de gestão de projetos | HTML |
+| orionstock | Sistema de controle de estoque | TypeScript |
+| site-gabi-ink1 | Site de controle de agendamentos, estoque de materiais | HTML |
 
 ## 🛠️ Stack
 
