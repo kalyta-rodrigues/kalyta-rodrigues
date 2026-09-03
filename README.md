@@ -10,7 +10,7 @@ Trabalho com desenvolvimento web e mobile, unindo lógica de programação a sol
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [OrionStudy] (https://github.com/kalyta-rodrigues/orionstudy-app) | Projeto de estudo/aprendizado pessoal | HTML |
+| [OrionStudy](https://github.com/kalyta-rodrigues/orionstudy-app) | Projeto de estudo/aprendizado pessoal | HTML |
 | [portifolio](https://github.com/kalyta-rodrigues/portifolio) | Meu portfólio pessoal, com apresentação de projetos e contato | HTML |
 | [classes-de-jogo](https://github.com/kalyta-rodrigues/classes-de-jogo) | Estrutura de classes aplicada a um contexto de jogo | JavaScript |
 | [calculadora-partidas-rankeadas](https://github.com/kalyta-rodrigues/calculadora-partidas-rankeadas) | Calculadora para estatísticas de partidas rankeadas | JavaScript |
