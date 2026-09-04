@@ -27,7 +27,7 @@ Trabalho com desenvolvimento web e mobile, unindo lógica de programação a sol
 | controle_projetos | Sistema de controle de projetos | TypeScript |
 | gestao_projetos | Sistema de gestão de projetos | HTML |
 | orionstock | Sistema de controle de estoque | TypeScript |
-| site-gabi-ink1 | Site de controle de agendamentos, estoque de materiais | HTML |
+| site-gabi-ink1 | Site de orçamento para clientes de tatuagem, com painel administrativo de agendamentos, atendimentos e estoque | HTML |
 
 ## 🛠️ Stack
 
