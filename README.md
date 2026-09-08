@@ -11,7 +11,7 @@ Trabalho com desenvolvimento web e mobile, unindo lógica de programação a sol
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [OrionStudy](https://github.com/kalyta-rodrigues/orionstudy-app) | Projeto de estudo/aprendizado pessoal | HTML |
-| [portifolio](https://github.com/kalyta-rodrigues/portifolio) | Meu portfólio pessoal, com apresentação de projetos e contato | HTML |
+| [portfolio](https://github.com/kalyta-rodrigues/portfolio) | Meu portfólio pessoal, com apresentação de projetos e contato | HTML |
 | [classes-de-jogo](https://github.com/kalyta-rodrigues/classes-de-jogo) | Estrutura de classes aplicada a um contexto de jogo | JavaScript |
 | [calculadora-partidas-rankeadas](https://github.com/kalyta-rodrigues/calculadora-partidas-rankeadas) | Calculadora para estatísticas de partidas rankeadas | JavaScript |
 | [Classificador-de-nivel-de-Heroi](https://github.com/kalyta-rodrigues/Classificador-de-nivel-de-Heroi) | Classificação de níveis com base em atributos de "herói" | JavaScript |
@@ -43,6 +43,6 @@ Trabalho com desenvolvimento web e mobile, unindo lógica de programação a sol
 
 - 📧 kalytarodrigues.tech@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/kalyta-almeida-146659163)
-- 🌐 [Portfólio](https://kalyta-rodrigues.github.io/portifolio/)
+- 🌐 [Portfólio](https://kalyta-rodrigues.github.io/portfolio/)
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1A2B3C,100:B8860B&height=100&section=footer)
