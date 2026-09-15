@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1A2B3C,100:B8860B&height=200&section=header&text=Kalyta%20Rodrigues&fontSize=40&fontColor=F5F5DC&fontAlignY=35&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1A2B3C,100:B8860B&height=200&section=header&text=Kalyta%20Almeida&fontSize=40&fontColor=F5F5DC&fontAlignY=35&animation=fadeIn)
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Desenvolvedora+FullStack;Web+%26+Mobile;ERP+%2B+Bancos+de+Dados" alt="Typing SVG" />
